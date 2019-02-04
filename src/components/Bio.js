@@ -35,7 +35,7 @@ function Bio() {
               <a href="https://www.instagram.com/davidle.codes/">
                 David Ruiz
               </a>.{' '}
-              For&nbsp;The english class.
+              For&nbsp;the english class.
             </p>
           </div>
         )
