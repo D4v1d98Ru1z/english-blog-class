@@ -6,8 +6,6 @@ spoiler: Colombia is the country of the pleasant heart, where everything happens
 ---
 
 
-# How will Colombia be in ten years?
-
 Colombia is the country of the pleasant heart, where everything happens and nothing happens, basically it is a submissive state, which is manipulated by the oligarchies, where power is used for their own benefit and rarely for the people. emphasizing the achievements that have been achieved in recent years in Colombia have advanced in different aspects like: Technology, agro-industry and peace processes, thanks to the efforts of the government, although they have been minimal in the development of this great nation, but however, it is a country where the population is afraid, since to manifest their disagreements has been taken as an act of rebellion and violence against the state, and in this way the citizenship does not feel protected as the function should be with respect of people.
 
 Hope in Colombia is the only thing that makes us keep faith and love for this land full of humble and hardworking people, that is why in this great nation they have a plan how they will govern each period, in addition to this, they make predictions in the long term, I mean, just as it is done in the soccer world cup, where the result matters but everyone bets that Colombia will win. For the next ten years, the objectives are framed in four relevant aspects, such as social investment, environment, post-conflict and agro-industry. Which aim to provide better living conditions for citizens especially those who have been marginalized and a discriminate socially.

@@ -5,8 +5,6 @@ creator: 'Jorfrey Villafañe'
 spoiler: Food as well as being a necessity is a habit, and it is said that the person can do good or bad, it is already in his decision. It is recommended that the human being eat 3 times a day, breakfast, lunch and dinner, and, of course, in a healthy way, although any time you all may be template. 
 ---
 
-# How have eating habits in Colombia changed?
-
 Food as well as being a necessity is a habit, and it is said that the person can do good or bad, it is already in his decision. It is recommended that the human being eat 3 times a day, breakfast, lunch and dinner, and, of course, in a healthy way, although any time you all may be template. However, the Colombian is a potential sinner, and He talks about Colombia because it is the country in which this article is going to be focused, concretely, on his capital, Bogota, then… How have eating habits in Colombia changed?
 
 ![Motivation for healthy eating](https://4.bp.blogspot.com/-YBpzPsd1EKs/WrmzHKmR83I/AAAAAAAAOF0/dETz86fNrR8Z9KUbdZwuQMqu0uun6oJbwCLcBGAs/s1600/eat-3236971_1920.jpg)
