@@ -5,8 +5,6 @@ creator: 'Julian Andres Cortes'
 spoiler: The most extreme experience that I have lived was on a trip that I made to a park which within its attractions was that of boating, I had always wanted to practice this sport because I really like to see extreme sports and within them was The canoeing in river of high current, I decided to realize the route and to live this extreme experience.
 ---
 
-# What are the most exciting or extreme activities you have ever done?
-
 The most extreme experience that I have lived was on a trip that I made to a park which within its attractions was that of boating, I had always wanted to practice this sport because I really like to see extreme sports and within them was The canoeing in river of high current, I decided to realize the route and to live this extreme experience.
 
 To carry out the tour the instructor explained the rules that we had to comply with and the security elements that we should use in case of falling to the river, for this sport you need a waterproof vest, an oar, a rope, a helmet.

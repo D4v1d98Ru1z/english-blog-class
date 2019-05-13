@@ -5,8 +5,6 @@ creator: 'Wilson Santiago Rodriguez Cortes'
 spoiler: Colombia is located in a strategic site, this is in the heart of the American continent, it is a country rich in nature and biodiversity, Colombia has some of the few animals left living in extinction, in Colombia, you can travel through the 32 departments, where you can find different cultures, typical food, people with different thoughts.
 ---
 
-# Is Colombia a place worth knowing?
-
 Colombia is located in a strategic site, this is in the heart of the American continent, it is a country rich in nature and biodiversity, Colombia has some of the few animals left living in extinction, in Colombia, you can travel through the 32 departments, where you can find different cultures, typical food, people with different thoughts. You can visit historic cities with colonial architecture, such as Cartagena, Villa de Leyva, Barichara, among others, museums where they tell the history of Colombia and you can find various objects with great validity and importance for the country.
 
 Hotels and lodgings take an important role in this country because there are cheap hotels and expensive hotels that contain interesting things, the price of hotels can vary according to the region and its luxurious and historical items.

@@ -5,7 +5,6 @@ creator: 'Javier Esteban Puentes'
 spoiler: For several years’ people have wondered if Colombia is a good place to visit, what makes Colombia an attractive place for a tourist, and how many things you can enjoy this country.  
 ---
 
-# Is Colombia a place worth knowing?
 
 For several years’ people have wondered if Colombia is a good place to visit, what makes Colombia an attractive place for a tourist, and how many things you can enjoy this country.
   

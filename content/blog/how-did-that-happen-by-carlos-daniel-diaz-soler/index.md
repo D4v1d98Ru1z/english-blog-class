@@ -5,8 +5,6 @@ creator: 'Carlos Daniel Diaz Soler'
 spoiler: The human being always has uncertainty, mystery, unknowns about facts that have passed and maybe can occur, no matter their relation or connection with these, that is to say, the main reason is  the nature human, because we want to investigate, analyze or speculate about to the different events that occurred in our proper life or events that happened around world, and perhaps would rewrite  the human history. 
 ---
 
-# HOW DID THAT HAPPEN?
-
 The human being always has uncertainty, mystery, unknowns about facts that have passed and maybe can occur, no matter their relation or connection with these, that is to say, the main reason is  the nature human, because we want to investigate, analyze or speculate about to the different events that occurred in our proper life or events that happened around world, and perhaps would rewrite  the human history. 
 
 Considering these, for example when people have some problems in which they don’t know how it happened, we always look for guilty, hypothesis or different theories about this specific problem; so, we should be cleaner, focus on, understand and looking for a solution for this problems, so that it doesn’t happen again in the future.

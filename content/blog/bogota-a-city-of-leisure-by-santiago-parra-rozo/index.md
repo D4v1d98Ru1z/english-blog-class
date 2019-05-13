@@ -5,8 +5,6 @@ creator: 'Santiago Parra Rozo'
 spoiler: Bogota is a great city that has 8million inhabitants, of which a large number are young, many study, others work, some do both, and others are considered "Nini" "neither study nor works. 
 ---
 
-# Bogotá a city of leisure?
-
 Bogota is a great city that has 8million inhabitants, of which a large number are young, many study, others work, some do both, and others are considered "Nini" "neither study nor works, (ni estudia ni trabaja) in Spanish. 
 
 In spite of this, all the young people carry out different activities on a daily basis in their free time, some do sports, while others prefer to stay at home to watch television. But it will be that the activities that these young people to serve in some way for their personal growth or they simply dedicate themselves to do "funny" things
