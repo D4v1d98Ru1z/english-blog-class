@@ -31,11 +31,7 @@ function Bio() {
               }}
             />
             <p>
-              Blog created by{' '}
-              <a href="https://www.instagram.com/davidle.codes/">
-                David Ruiz
-              </a>.{' '}
-              For&nbsp;the english class.
+              The&nbsp;new English Blog.
             </p>
           </div>
         )

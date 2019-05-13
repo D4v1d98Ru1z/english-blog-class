@@ -178,5 +178,5 @@ const result = fetchFromAPI(12) // return the id
 
 Watch out! Async functions are resolved in sequential way. It means that if you need to wrap some parallel data async / await is not the solution, you need to use an array of promises.
 
-## Wrapping up
+
 
