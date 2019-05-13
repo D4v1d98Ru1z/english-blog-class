@@ -32,6 +32,8 @@ class BlogIndex extends React.Component {
                   {title}
                 </Link>
               </h3>
+              <small style={{fontWeight:'bold'}}>{node.frontmatter.creator}</small>
+              {' '}
               <small>{node.frontmatter.date}</small>
               <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
             </div>
@@ -61,6 +63,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            creator
           }
         }
       }
