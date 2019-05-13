@@ -25,6 +25,10 @@ class BlogPostTemplate extends React.Component {
           }}
         >
           {post.frontmatter.date}
+          <span style={{fontWeight:'bold'}}>
+            {' by: '}
+            {post.frontmatter.creator}
+          </span>
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
@@ -80,6 +84,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        creator
       }
     }
   }
