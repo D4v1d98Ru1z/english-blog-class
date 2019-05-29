@@ -8,8 +8,7 @@ function SEO({ description, lang, meta, keywords, title }) {
     <StaticQuery
       query={detailsQuery}
       render={data => {
-        const metaDescription =
-          description || data.site.siteMetadata.description
+        const metaDescription = `English blog created by stydents of the engineering faculty of Universidad Libre.`
         return (
           <Helmet
             htmlAttributes={{

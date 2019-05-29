@@ -9,7 +9,7 @@ function Bio() {
     <StaticQuery
       query={bioQuery}
       render={data => {
-        const { author, social } = data.site.siteMetadata
+        const { author } = data.site.siteMetadata
         return (
           <div
             style={{
@@ -30,9 +30,26 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>
-              The&nbsp;new English Blog.
-            </p>
+            <div
+              style={{ 
+                display: `block`
+              }}
+            >
+              <p
+                style={{
+                  margin: `0`,
+                  fontWeight: `bold`,
+                  fontSize: `1.2em`
+                }}
+              >
+                The&nbsp;new English Blog.
+              </p>
+              <p>
+              The following compilation of articles is an overview of how students
+              from the Engineering Faculty may express their opinions regarding 
+              a specific context. Thus, English 3 students have developed an article after following a guided writing strategy.
+              </p>
+            </div>
           </div>
         )
       }}
@@ -42,7 +59,7 @@ function Bio() {
 
 const bioQuery = graphql`
   query BioQuery {
-    avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/profile-pic.png/" }) {
       childImageSharp {
         fixed(width: 50, height: 50) {
           ...GatsbyImageSharpFixed

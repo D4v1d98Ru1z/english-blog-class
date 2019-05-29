@@ -63,10 +63,11 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()}, Built by
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>, by 
-          <a href="https://www.instagram.com/davidle.codes/"> David Ruiz</a>
+          <a href="https://www.instagram.com/davidle.codes/"> David Ruiz</a> Full-Stack Developer
+          {` `}
+          and Academic Cordinatior Carlos Carrillo, Language Professor, Universidad Libre
         </footer>
       </div>
     )
