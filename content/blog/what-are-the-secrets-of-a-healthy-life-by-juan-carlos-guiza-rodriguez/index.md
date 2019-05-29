@@ -1,7 +1,7 @@
 ---
-title: What did he say?
+title: What are the secrets of a healthy life?
 date: '2019-04-02'
-creator: 'Santiago Quiroga Torres'
+creator: 'Juan Carlos Guiza Rodriguez'
 spoiler: One believes that to have a healthy life you must do only exercise and now, but this is not the case, there are many factors involved, I set about looking for a healthy life and I found many things that I thought were not important, but they are. 
 ---
 
