@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
+import SocialMedia from "./SocialMedia";
 
 class Layout extends React.Component {
   render() {
@@ -16,6 +17,7 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            marginTop: 50
           }}
         >
           <Link
@@ -62,12 +64,14 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
+        <hr/>
         <footer>
           © {new Date().getFullYear()}, Built by
           {` `}
           <a href="https://www.instagram.com/davidle.codes/"> David Ruiz</a> Full-Stack Developer
           {` `}
           and Academic Cordinatior Carlos Carrillo, Language Professor, Universidad Libre
+          <SocialMedia />
         </footer>
       </div>
     )
