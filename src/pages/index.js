@@ -47,6 +47,15 @@ class BlogIndex extends React.Component {
               </div>
             )
           })}
+          <hr/>
+          <h2
+            style={{
+              margin: 0,
+              marginBottom: 'calc(1.75rem - 1px)'
+            }}
+          >
+            Related Post from EFLA
+          </h2>
           <RelatedPost />
         </Layout>
       </div>
