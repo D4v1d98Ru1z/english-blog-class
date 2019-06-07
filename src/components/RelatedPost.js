@@ -5,6 +5,7 @@ const RelatedPost = () => {
     <a 
       href="https://www.facebook.com/UnilibreEFLA/"
       target="_blank"
+      rel="noopener noreferrer"
       style={{
         backgroundColor: '#FAFBFC',
       }}
@@ -26,6 +27,7 @@ const RelatedPost = () => {
       >
         <img 
           src={require('../../content/assets/profile-pic.png')}
+          alt="University Logo"
           width={50}
           style={{
             margin: 0
